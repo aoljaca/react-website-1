@@ -18,6 +18,20 @@ function Cards() {
                         label="Luxury"
                         path="/services"/>
                     </ul>
+                    <ul className="cards__item">
+                        <CardItem src="./images/img-9.jpg"
+                        text="Explore the hidden waterfall"
+                        label="Adventure"
+                        path="/services"/>
+                        <CardItem src="../images/img-2.jpg"
+                        text="Travel through islands of Bali"
+                        label="Luxury"
+                        path="/services"/>
+                        <CardItem src="../images/img-2.jpg"
+                        text="Travel through islands of Bali"
+                        label="Luxury"
+                        path="/services"/>
+                    </ul>
                 </div>
             </div>
         </div>
